@@ -61,6 +61,14 @@ CodeWars rank:
 
 <br>
 
+LeetCode stats:
+
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=ivanvasiunin&theme=dark" alt="codeWars"/>
+</div>
+
+<br>
+
 Meta Front-End Developer Certificate
 
 <div align="center">
