@@ -28,7 +28,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :books: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve katas on CodeWars and read tech articles.
+- :zap: In my free time, I solve katas on CodeWars or problems on LeetCode and read tech articles.
 
 - :envelope: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-IvanVasiunin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IvanVasiunin) [![Gmail Badge](https://img.shields.io/badge/-ivanvasyunin@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivanvasyunin@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-IvanVasiunin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-vasiunin-9967a5132/)
 
