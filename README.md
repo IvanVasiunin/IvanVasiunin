@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Web Developer from Ukraine <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :computer: I’m working as a Frontend developer and creating one-page websites, adding interactive elements to web pages, developing scripts for technical support specialists and maintaing our custom web application.
 
