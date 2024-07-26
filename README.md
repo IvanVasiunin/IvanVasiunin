@@ -67,7 +67,7 @@ CodeWars rank:
 LeetCode stats:
 
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=ivanvasiunin&theme=dark" alt="codeWars"/>
+  <img src="https://leetcode.card.workers.dev/ivanvasiunin?theme=dark&font=baloo&extension=null" alt="leetCode"/>
 </div>
 
 <br>
