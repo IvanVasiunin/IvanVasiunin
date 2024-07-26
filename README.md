@@ -24,7 +24,7 @@
 
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
-- :computer: I’m working as a Technical Specialist and creating one-page websites, maintaing our custom web application and developing scripts for technical support specialists.
+- :computer: I’m working as a Frontend developer and creating one-page websites, adding interactive elements to web pages, developing scripts for technical support specialists and maintaing our custom web application.
 
 - :books: Exploring Technical Content Writing.
 
